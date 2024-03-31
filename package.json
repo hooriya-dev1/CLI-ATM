@@ -1,5 +1,5 @@
 {
-  "name": "cli-atm",
+  "name": "hooriya-cli-atm",
   "version": "1.0.0",
   "description": "This is a cli based ATM machine",
   "main": "index.js",
